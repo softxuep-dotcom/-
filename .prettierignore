@@ -1,0 +1,12 @@
+dist/
+release/
+node_modules/
+test-results/
+playwright-report/
+package-lock.json
+public/assets/*.glb
+public/assets/*.webp
+public/assets/*.mp4
+AGENTS.md
+docs/AUTONOMOUS_GAME_BUILD_PROMPT.md
+docs/RELEASE_CHECKLIST.md

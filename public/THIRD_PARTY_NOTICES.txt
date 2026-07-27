@@ -1,0 +1,21 @@
+Fling Fiasco — Third-Party Notices
+
+The game design, authored levels, procedural artwork, generated GLB stage mark,
+interface, text, music, and sound effects are original project content.
+
+Runtime libraries:
+
+1. three.js 0.185.1
+   Copyright (c) 2010-2026 three.js authors
+   License: MIT
+   Source: https://github.com/mrdoob/three.js
+   Full license: licenses/THREE-MIT.txt
+
+2. Rapier JavaScript 0.19.3 (@dimforge/rapier3d-compat)
+   Copyright (c) Dimforge and Rapier contributors
+   License: Apache License 2.0
+   Source: https://github.com/dimforge/rapier.js
+   Full license: licenses/RAPIER-APACHE-2.0.txt
+
+No third-party fonts, textures, models, music, sound effects, analytics, or
+advertising assets are included in the game package.
